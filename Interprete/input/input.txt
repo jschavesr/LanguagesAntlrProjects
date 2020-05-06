@@ -1,0 +1,7 @@
+var i as 1;
+print i;
+
+while i < 10 do
+    print i;
+    set i as i+1;
+endwhile
